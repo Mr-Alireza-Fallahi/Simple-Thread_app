@@ -13,5 +13,5 @@ public:
     IDownloader() = default;
     ~IDownloader() = default;
     virtual FileSystem::path download(const std::string& url) = 0;
-    // virtual FileSystem::path download(std::string url, std::vector<std::thread> threadList) = 0;
+    virtual FileSystem::path download(const std::string& url, std::vector<std::thread>& threadList) = 0;
 };

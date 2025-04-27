@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/alireza/Projects/multithread/build/cmake_install.cmake"
+		"/home/alireza/Project/Multithreaded/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
