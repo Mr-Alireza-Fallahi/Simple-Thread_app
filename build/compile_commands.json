@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/alireza/Projects/multithread/build",
+  "command": "/usr/bin/clang++ -I/home/alireza/Projects/multithread/include -g -o CMakeFiles/download.dir/main.cpp.o -c /home/alireza/Projects/multithread/main.cpp",
+  "file": "/home/alireza/Projects/multithread/main.cpp",
+  "output": "CMakeFiles/download.dir/main.cpp.o"
+},
+{
+  "directory": "/home/alireza/Projects/multithread/build",
+  "command": "/usr/bin/clang++ -I/home/alireza/Projects/multithread/include -g -o CMakeFiles/download.dir/src/instance.cpp.o -c /home/alireza/Projects/multithread/src/instance.cpp",
+  "file": "/home/alireza/Projects/multithread/src/instance.cpp",
+  "output": "CMakeFiles/download.dir/src/instance.cpp.o"
+},
+{
+  "directory": "/home/alireza/Projects/multithread/build",
+  "command": "/usr/bin/clang++ -I/home/alireza/Projects/multithread/include -g -o CMakeFiles/download.dir/src/download_curl.cpp.o -c /home/alireza/Projects/multithread/src/download_curl.cpp",
+  "file": "/home/alireza/Projects/multithread/src/download_curl.cpp",
+  "output": "CMakeFiles/download.dir/src/download_curl.cpp.o"
+}
+]

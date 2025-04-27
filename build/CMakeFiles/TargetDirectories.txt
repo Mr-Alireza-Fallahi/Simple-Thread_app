@@ -1,0 +1,3 @@
+/home/alireza/Projects/multithread/build/CMakeFiles/download.dir
+/home/alireza/Projects/multithread/build/CMakeFiles/edit_cache.dir
+/home/alireza/Projects/multithread/build/CMakeFiles/rebuild_cache.dir

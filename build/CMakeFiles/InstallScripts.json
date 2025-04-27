@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/alireza/Projects/multithread/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

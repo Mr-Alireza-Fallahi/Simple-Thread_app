@@ -1,0 +1,9 @@
+# ninja log v6
+5	773	1745756492447230523	CMakeFiles/download.dir/main.cpp.o	1b0760587cbbb902
+773	992	1745756493217243509	download	c2ba38742454f933
+2	27	1745758684163955557	CMakeFiles/download.dir/src/download_curl.cpp.o	36fe0caa2f012825
+2	1023	1745759591179805285	CMakeFiles/download.dir/src/download_curl.cpp.o	36fe0caa2f012825
+2	819	1745759744132506482	CMakeFiles/download.dir/src/download_curl.cpp.o	36fe0caa2f012825
+2	769	1745759824082097337	CMakeFiles/download.dir/src/download_curl.cpp.o	36fe0caa2f012825
+2	799	1745759824082097337	CMakeFiles/download.dir/src/instance.cpp.o	60821a113699ffc8
+800	937	1745759824878726895	download	c911fa3d32743f37
